@@ -1,0 +1,14 @@
+John gave a book to Mary
+B-ARG0 O B-ARG1 I-ARG1 O B-ARG2
+
+She eats rice
+B-ARG0 O B-ARG1
+
+Ram sent a letter yesterday
+B-ARG0 O B-ARG1 I-ARG1 B-ARGM
+
+They played football in park
+B-ARG0 O B-ARG1 O B-ARGM I-ARGM
+
+Alice reads a novel
+B-ARG0 O B-ARG1 I-ARG1
